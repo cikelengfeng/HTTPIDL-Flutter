@@ -1,0 +1,3 @@
+class HIError extends Error {
+  
+}
